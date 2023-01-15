@@ -13,4 +13,4 @@ https://github.com/golanego505
 http://linkedin.com/in/lane-flint-413407262/
 
 ### Resume
-Flint Liftoff Resume.pdf
+https://github.com/golanego505/liftoff-assignments/blob/master/C1-Online_Profiles/Flint%20Liftoff%20Resume.pdf

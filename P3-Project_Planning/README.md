@@ -12,7 +12,7 @@ https://github.com/golanego505/liftoff-assignments/blob/master/P3-Project_Planni
 
 https://github.com/golanego505/liftoff-assignments/blob/master/P3-Project_Planning/Plant%20Detail%20View%20(1).jpg
 
-
+https://github.com/golanego505/liftoff-assignments/blob/master/P3-Project_Planning/Plant%20Detail%20View%20(2).jpg
 
 ### Project Tracker
 
@@ -20,4 +20,4 @@ https://trello.com/b/BvuQ2K29/plantopedia
 
 ### Project Repo Link
 
-Include a link to your project on GitHub.
+https://github.com/Jan-23-Liftoff-KC/plantopedia

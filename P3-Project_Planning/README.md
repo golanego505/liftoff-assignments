@@ -8,6 +8,7 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 
+https://github.com/golanego505/liftoff-assignments/blob/master/P3-Project_Planning/Plant%20Detail%20View.jpg
 
 
 ### Project Tracker
